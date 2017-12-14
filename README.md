@@ -4,9 +4,7 @@
 
 No configuration and no additional HTML markup required. Just include the library's JavaScript and CSS files, and your new navigation is ready.
 
-<div align="center">
 ![Demo](https://raw.githubusercontent.com/bootstrapstudio/bootstrap-better-nav/master/demo.gif)
-</div>
 
 ## Usage
 
