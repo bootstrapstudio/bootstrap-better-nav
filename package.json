@@ -1,12 +1,16 @@
 {
   "name": "@bootstrapstudio/bootstrap-better-nav",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Off-screen navigation menu for Bootstrap.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "keywords": ["bootstrap", "navbar", "navigation"],
+  "keywords": [
+    "bootstrap",
+    "navbar",
+    "navigation"
+  ],
   "license": "ISC"
 }
