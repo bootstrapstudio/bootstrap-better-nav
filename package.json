@@ -1,6 +1,6 @@
 {
   "name": "@bootstrapstudio/bootstrap-better-nav",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Off-screen navigation menu for Bootstrap.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "navbar",
     "navigation"
   ],
+  "repository" : { 
+    "type" : "git"
+  , "url" : "https://github.com/bootstrapstudio/bootstrap-better-nav.git"
+  },
   "license": "ISC"
 }

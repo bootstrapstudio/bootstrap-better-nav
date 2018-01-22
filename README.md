@@ -4,9 +4,9 @@
 
 No configuration and no additional HTML markup required. Just include the library's JavaScript and CSS files, and your new navigation is ready.
 
-![Demo](https://raw.githubusercontent.com/bootstrapstudio/bootstrap-better-nav/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/bootstrapstudio/bootstrap-better-nav/master/images/demo.gif)
 
-## Usage
+## Installation
 
 The library works only in Bootstrap 4 projects and requires a valid Navbar to be present on the page.
 
@@ -36,3 +36,16 @@ Clicking on the navbar toggle button will show the off-screen menu instead of ex
 The menu has only basic styling, you can easily customize it with CSS. 
 
 
+## Using in Bootstrap Studio
+
+To add this plugin to your Bootstrap Studio project, simply go to the Design panel (bottom-right) and add the needed resources.
+
+In Styles add the CSS part of the library as an external link.
+
+![Demo](https://raw.githubusercontent.com/bootstrapstudio/bootstrap-better-nav/master/images/link-external.png)
+
+A dialog window should open. Inside, paste the CSS URL from the [Installation](https://github.com/bootstrapstudio/bootstrap-better-nav#installation) guide.
+
+![Demo](https://raw.githubusercontent.com/bootstrapstudio/bootstrap-better-nav/master/images/paste-url.png)
+
+Repeat this process for the JavaScript part of the library.
