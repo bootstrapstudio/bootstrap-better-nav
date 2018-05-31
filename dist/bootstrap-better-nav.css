@@ -10,7 +10,7 @@ body.overflow-hidden {
   right:-300px;
   height:100%;
   overflow-y:auto;
-  z-index:500;
+  z-index:1035;
   background:#fff;
   padding:20px 30px;
   color:#333;
