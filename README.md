@@ -35,6 +35,14 @@ Clicking on the navbar toggle button will show the off-screen menu instead of ex
 
 The menu has only basic styling, you can easily customize it with CSS. 
 
+## Configuring menu direction
+
+The slide-in menu can be positioned on the left or the right side of the screen. By default it is on the right, but that can be easily changed by adding the `better-bootstrap-nav-left` class to the Bootstrap navbar.
+
+```html
+<nav class="navbar navbar-expand-md better-bootstrap-nav-left">
+```
+
 
 ## Using in Bootstrap Studio
 

@@ -52,3 +52,12 @@ body.side-menu-visible #side-menu {
   display:none;
 }
 
+#side-menu.side-menu-left {
+  right: auto;
+  left: -300px;
+}
+
+body.side-menu-visible #side-menu.side-menu-left {
+  transform:translateX(300px);
+}
+

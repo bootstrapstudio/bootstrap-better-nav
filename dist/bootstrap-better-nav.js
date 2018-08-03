@@ -1,6 +1,7 @@
 $(function() {
     
     var body = $('body');
+    var navbar = $('.navbar');
     var navbarCollapse = $('.navbar-collapse');
 
 
@@ -20,6 +21,12 @@ $(function() {
     sideMenu.append('<div class="contents"></div>')
     var sideMenuContents = sideMenu.find('.contents');
 
+
+
+    // Configure Slide menu direction
+    if(navbar.hasClass('better-bootstrap-nav-left')) {
+        sideMenu.addClass('side-menu-left');
+    }
 
 
     // This event is trigerred when the user clicks the navbar toggle button.
