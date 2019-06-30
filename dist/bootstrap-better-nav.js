@@ -53,7 +53,7 @@ $(function() {
 
     // Hide the menu when the overlay element is clicked.
     
-    overlay.on('click', function(e) {
+    sideMenu.on('click', function(e) {
         slideOut();
     });
 
